@@ -5,7 +5,7 @@
 
 # HOW TO SETUP
 
-- Crate API Token [Manage API tokens for your Atlassian account | Atlassian Support](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/)
+- Crate API Token. Refer [Manage API tokens for your Atlassian account | Atlassian Support](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/)
 
 - Install python modules
 - Save token into `.env` file
@@ -21,8 +21,8 @@ $ edit .env
 ```
 $ python app.py
 
-(output per_space.csv and per_page.csv)
+(will output per_space.csv and per_page.csv)
 ```
 
-- Import CSV files to MS-Excel and Google Spreadsheet
+- Import CSV files to MS-Excel or Google Spreadsheet
 - Have a fun!
